@@ -84,6 +84,8 @@ Download the trained model files and place them in the project root:
 - `article_tokenizer.pkl`
 - `summary_tokenizer.pkl`
 
+⚠️ Model files are too large for GitHub. Download them via the Google Drive link > https://drive.google.com/drive/folders/1FmWBOmOo5jj5kxTNyFKkoyG_5iCAeO35?usp=sharing
+
 
 
 ## Running the Streamlit Demo
