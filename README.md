@@ -119,4 +119,4 @@ Paste any news article and get summaries from all 5 models instantly, with the R
 
 ## 📄 License
 
-This project is for academic purposes. Dataset credit: [therapara](https://huggingface.co/datasets/therapara/summary-of-news-articles) on Hugging Face.
+This project is for academic purposes as part of the Natural Language Processing Course.
