@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27852593/README.md)
+
 # 📰 Abstractive Text Summarization — Comparative NLP Study
 
 A comprehensive comparative study of **5 models** for abstractive text summarization, built as part of an undergraduate Natural Language Processing course. Models are trained and evaluated on a real-world news dataset, with a live interactive Streamlit demo to compare all models side by side.
