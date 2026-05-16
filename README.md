@@ -32,7 +32,7 @@ A comprehensive comparative study of **5 models** for abstractive text summariza
 
 ```
 📦 abstractive-summarization
-├── 📓 notebook.ipynb              # Full training notebook (all 5 models)
+├── 📓 NLP_Project.ipynb              # Full training notebook (all 5 models)
 ├── 🖥️  app.py                     # Streamlit demo app
 ├── 📄 README.md
 │
